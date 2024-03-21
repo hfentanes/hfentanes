@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Hadassa</h1>
+<h3>A junior frontend developer and UX/UI designer who loves learning</h3>
 
-<!--
-**hfentanes/hfentanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a personal project**;
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **TypeScript, SQL, and Libras**;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Explore my experiences on [this repository](https://github.com/hfentanes/mi-portafolio) (coming soon!).
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hfentanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hfentanes" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,figma,html,js,ps,postgres,react,sass,ts,vscode)](https://skillicons.dev)
