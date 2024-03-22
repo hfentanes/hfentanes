@@ -11,12 +11,8 @@
 
 - ✉️ [E-mail](hadassafentanes@gmail.com);
   
-- 👔 [LinkedIn](https://linkedin.com/in/hfentanes);
-  
 - 💬 [WhatsApp](https://wa.me/34682067042).
 
 <h3>Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,figma,html,js,ps,postgres,react,sass,ts,vscode)](https://skillicons.dev)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfentanes&count_private=true&theme=tokyonight&showicons=true)]()
